@@ -4,13 +4,13 @@
 
 (generate_opam_files true)
 
-(source (github mitchdzugan/ocaml-ibad))
+(source (github mitchdzugan/ppx_ibad))
 
 (authors "Author Name")
 
 (maintainers "Maintainer Name")
 
-(license LICENSE)
+(license MIT)
 
 (documentation https://url/to/documentation)
 

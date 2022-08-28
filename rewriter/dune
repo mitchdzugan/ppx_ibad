@@ -1,7 +1,6 @@
 (library
  (name ppx_ibad)
  (public_name ppx_ibad)
- (wrapped false)
  (kind ppx_rewriter)
  (libraries ppxlib)
  (preprocess (pps ppxlib.metaquot)))
